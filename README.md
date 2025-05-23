@@ -123,12 +123,12 @@ mindmap
 
 <div align="center">
 
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| 🩺 **AI Health Classifier** | Machine learning model for medical diagnosis | Python, Scikit-learn, Pandas | [🔗 Demo](https://your-demo-link.com) |
-| 🌐 **Responsive Web App** | Full-stack web application with modern UI | React, Node.js, MongoDB | [🔗 Demo](https://your-demo-link.com) |
-| 📱 **Mobile Flutter App** | Cross-platform mobile application | Flutter, Dart, Firebase | [🔗 Demo](https://your-demo-link.com) |
-| 🔗 **API Gateway** | RESTful API with microservices architecture | Node.js, Express, MongoDB | [🔗 Docs](https://your-api-docs.com) |
+| Project | Description | Tech Stack | 
+|---------|-------------|------------|
+| 🩺 **AI Health Classifier** | Machine learning model for medical diagnosis | Python, Scikit-learn, Pandas |
+| 🌐 **Responsive Web App** | Full-stack web application with modern UI | React, Node.js, MongoDB | 
+| 📱 **Mobile Flutter App** | Cross-platform mobile application | Flutter, Dart, Firebase | 
+| 🔗 **API Gateway** | RESTful API with microservices architecture | Node.js, Express, MongoDB | 
 
 </div>
 
